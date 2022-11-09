@@ -1,0 +1,11 @@
+.header-mini {background-color: #1CD1B0; padding-left: 27px; padding-top: 10px; padding-bottom: 10px;
+    font-family: Roboto; font-size: 15px;
+    font-weight: 400;
+    ;}
+.header-principal {background-color: #00669F; padding-left: 28px; padding-top: 28px; padding-bottom: 26px;
+    font-family: Roboto; font-size: 40px;
+    font-weight: 400; box-shadow: 0px 10px 7px 0px #00000040;}
+#espacio {height: 154px;}
+.tarjeta {display: inline-block; width: 300px; height: 529px;}
+.fondo-imagen {width: 100%;}
+
